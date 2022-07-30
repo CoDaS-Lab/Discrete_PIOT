@@ -7,7 +7,7 @@ Folders:
 ./synthetic : contains python codes for running batch jobs, Jupyter Notebooks for simulations and plots, and pickle files for data in the paper  
 
 Required packages and version  
-\----------------------------
+\----------------------------  
 conda  
 matplotlib                3.3.4  
 numpy                     1.19.1  
