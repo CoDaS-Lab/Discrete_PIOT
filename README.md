@@ -4,7 +4,7 @@ https://proceedings.mlr.press/v162/chiu22b.html
   
 Folders:  
 ./SRC : source codes for performing PIOT simulations  
-./synthetic : contains python codes for running batch jobs, Jupyter Notebooks for simulations and plots, and pickle files for data in the paper  
+./synthetic : contains python codes for running batch jobs, Jupyter Notebooks for simulations and plots, and pickle files for data in the paper (Note: several large size files are not included)
 
 Required packages and version  
 \----------------------------  
