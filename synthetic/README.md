@@ -6,7 +6,6 @@ for ICML 2022
 
 Folders:  
 ./data : contains simulation data  
-./data_C : contains data for cost fuctions  
 ./EU_migration_data : contains the original EU migration data set  
 ./input_files : contains python codes to generate slurm batch job files  
   
